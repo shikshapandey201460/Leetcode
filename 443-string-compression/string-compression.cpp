@@ -8,6 +8,7 @@ public:
             int j=i+1;
             while(j<n && chars[i]==chars[j]){
                 j++;
+                
             }
             //yaha kab aoge
             //ya toh vector pura traverse kr diya
